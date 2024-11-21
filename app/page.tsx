@@ -14,7 +14,7 @@ export default function Home() {
       <div className="mb-1">
         <Image className="rounded-lg" src="/home.svg" width={400} height={400} alt="twitter" />
       </div>
-      <Link href="/" className="flex mb-2">
+      <Link href="https://dexscreener.com/solana/eokbutznvu8xt6uy7qjxhcknvev7jetnrcamitca2mgx" className="flex mb-2">
         <button
           className="relative inline-flex items-center justify-center px-8 py-2.5 overflow-hidden tracking-tighter text-white bg-gray-800 rounded-md group"
         >
