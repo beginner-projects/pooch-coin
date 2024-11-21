@@ -12,7 +12,7 @@ export default function Home() {
         <ReactWrapBalancer>Pooch Coin</ReactWrapBalancer>
       </h1>
       <div className="mb-1">
-        <Image className="rounded-lg" src="/home.svg" width={500} height={500} alt="twitter" />
+        <Image className="rounded-lg" src="/home.svg" width={400} height={400} alt="twitter" />
       </div>
       <Link href="/" className="flex mb-2">
         <button
