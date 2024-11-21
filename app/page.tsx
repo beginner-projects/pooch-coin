@@ -57,10 +57,13 @@ export default function Home() {
       </Link>
       <div className="flex gap-3 mt-2">
         <Link href="https://x.com/poochcoin_sol" target="blank">
-          <Image src="/x.png" width={50} height={50} alt="twitter" />
+          <Image src="/x.png" width={30} height={30} alt="twitter" />
         </Link>
         <Link href="https://www.youtube.com/@pooch_sol" target="blank">
-          <Image src="/youtube.png" width={50} height={50} alt="twitter" />
+          <Image src="/youtube.png" width={30} height={30} alt="twitter" />
+        </Link>
+        <Link href="https://www.geckoterminal.com/solana/pools/EokBUTZNvu8xt6Uy7qjXhCKNVEV7jeTnrcAmiTcA2Mgx" target="blank">
+          <Image src="/gt.png" width={30} height={30} alt="gecko" />
         </Link>
       </div>
     </main>
